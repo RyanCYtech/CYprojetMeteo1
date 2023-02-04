@@ -16,3 +16,6 @@ Un mode doit toujours être spécifié avec -t et -p.
 Vous ne pouvez pas utiliser deux modes de la même option dans une commande.
 L'utilisation de deux options ou plus pour l'emplacement n'est pas possible (-F -G -A -S -Q -O).
 Le fichier d'entrée est un fichier de données météorologiques CSV avec un séparateur ";
+
+
+ALI MLADJAO Ryan MI Pré ing 2 groupe 2
